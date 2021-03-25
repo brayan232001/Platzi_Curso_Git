@@ -83,6 +83,7 @@ header{
     header{
         align-items: center;
         justify-content: center;
+        height: auto;
     }
 }
 
@@ -90,6 +91,7 @@ header{
     header{
         align-items: center;
         justify-content: space-between;
+        height: 10vh;
     }
 }
 
